@@ -1,0 +1,2 @@
+# gasmek
+Gasmek eğitim serisi
