@@ -51,9 +51,9 @@ public class Arrays {
         System.out.println(myset.size());
 
         HashMap<String,String> myHashMap = new HashMap<String,String>();
-        myHashMap.put("haşim","Büşra");
-        myHashMap.put("Fatih","Melek");
-        myHashMap.put("Bekir","Saadet");
+        myHashMap.put("haşim","kahramanmaraş");
+        myHashMap.put("Fatih","kırşehir");
+        myHashMap.put("Bekir","adana");
 
         System.out.println(myHashMap.get("haşim"));
 
