@@ -31,7 +31,7 @@ public class Array {
         int ikincisayi = 15;
 
         int toplam,fark,carpim;
-        float bolum;
+        float bolum,newgit;
 
         toplam = birincisayi+ikincisayi; //toplama  işlemi
         fark= ikincisayi - birincisayi; // çıkarma işlemi
